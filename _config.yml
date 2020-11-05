@@ -1,14 +1,14 @@
 title: Bill Peterson # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
-
-   <center>
+description:  # your text below (remove <br> elements if you don't need line breaks)
+  <center>
   <b>Data Science & Applied Statistics</b>
   <br>
   <a href="https://www.linkedin.com/in/williambpeterson/">LinkedIn</a>
   <a> | </a>
   <a href="https://github.com/wbp2114">GitHub</a>    
   <br><br>
-    </center>
+  </center>
   
   <b>Methodologies &#58; </b><br>
   &#8901; Econometric, spatial, time series, <br> 
