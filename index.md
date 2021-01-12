@@ -2,31 +2,12 @@
 
 ---
 
-### Category Name 1 
+### Selected Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
+- [Predictive Modeliing - Recipe Sodium](https://github.com/wbp2114/ML_recipe_sodium/blob/main/Predictive_Modeling---Recipe_Sodium.md)
+- [Time Series Analysis - Water Consumption](https://github.com/wbp2114/Time-Series/blob/main/Time-Series---Res.-Water-Consumption.md)
+- [NLP - Daycare Review Classifier - Code Sample](https://github.com/wbp2114/NLP_daycare_reviews/blob/main/NLP_daycare_reviews.py)
+- [Data Visualization - NYC 311 Noise Complaints](https://thestreett.github.io/311_exploration.html)
 
 
 
